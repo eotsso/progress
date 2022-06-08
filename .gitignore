@@ -1,0 +1,4 @@
+echo ".obsidian/cache
+.trash/
+.DS_Store" > .gitignore
+pythonenv3.8

@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "3663ab9ddcf84c4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6463d7649c71dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note Snippets.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91689e0709e6aae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35b99b61c886c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d82bcfdb9bc103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "54ff86aa4368abfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 189
+  },
+  "right": {
+    "id": "e80a27f59c64fcd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87478ad7936b56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00e907cd62bbf19a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note Snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0abd13cff585e3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c5141defb3f9b46",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b6463d7649c71dc",
+  "lastOpenFiles": [
+    "Note Snippets.md",
+    "Vector resize.md",
+    "Vectors.md",
+    "Modifying, Copying, Comparing Vectors.md",
+    "Vector Variable Swapping.md",
+    "Element by element vector copy.md",
+    "vector.md",
+    "NeverNote.md",
+    "NoteStar.md",
+    "Untitled 1.md"
+  ]
+}
