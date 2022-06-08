@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Snippets.md",
+            "file": "Git and GitHub Guide.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Snippets.md",
+                "file": "Git and GitHub Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "0b6463d7649c71dc",
   "lastOpenFiles": [
+    "Git and GitHub Guide.md",
     "Note Snippets.md",
     "Vector resize.md",
     "Vectors.md",
@@ -116,7 +117,6 @@
     "Element by element vector copy.md",
     "vector.md",
     "NeverNote.md",
-    "NoteStar.md",
-    "Untitled 1.md"
+    "NoteStar.md"
   ]
 }
