@@ -61,3 +61,7 @@ Host *
 - `git push origin master` this won't work because there's no connected repo. 
 - First, create an empty repo on GitHub. Copy the SSH key. 
 - `git remote add origin [SSH key]`
+- now `git push origin master` will work.  
+
+# Sources
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
