@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git and GitHub Guide.md",
+            "file": "Vectors.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub Guide.md",
+                "file": "Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,23 +98,31 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d9f4015587b68b11",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 175.5
   },
   "active": "0b6463d7649c71dc",
   "lastOpenFiles": [
-    "Git and GitHub Guide.md",
-    "Note Snippets.md",
-    "Vector resize.md",
     "Vectors.md",
-    "Modifying, Copying, Comparing Vectors.md",
+    "Vector resize.md",
+    "Note Snippets.md",
+    "Git and GitHub Guide.md",
     "Vector Variable Swapping.md",
     "Element by element vector copy.md",
+    "Modifying, Copying, Comparing Vectors.md",
     "vector.md",
     "NeverNote.md",
     "NoteStar.md"

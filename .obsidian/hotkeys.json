@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-git:view-file-on-github": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ]
+}
