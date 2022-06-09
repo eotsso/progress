@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Element by element vector copy.md",
+            "file": "Git and GitHub Guide Setup.md",
             "mode": "source",
             "source": false
           }
@@ -64,23 +64,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00e907cd62bbf19a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Element by element vector copy.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "f0abd13cff585e3e",
             "type": "leaf",
             "state": {
@@ -90,37 +73,22 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6c5141defb3f9b46",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9f4015587b68b11",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 175.5
+    "width": 100,
+    "collapsed": true
   },
   "active": "0b6463d7649c71dc",
   "lastOpenFiles": [
-    "Element by element vector copy.md",
+    "Git and GitHub Guide Setup.md",
     "Testing Plugin.md",
+    "Element by element vector copy.md",
     "Vectors.md",
     "Vector resize.md",
     "Note Snippets.md",
-    "Git and GitHub Guide.md",
     "Vector Variable Swapping.md",
     "Modifying, Copying, Comparing Vectors.md",
     "vector.md",

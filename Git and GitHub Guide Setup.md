@@ -30,7 +30,9 @@
 - Search for key generated using: `ls `
 	- `testkey` //private key, DO NOT SHARE. It proves ownership of public key. 
 	- `testkey.pub` //this is the one you want for public repo
-- To show `testkey.pub`, enter `cat testkey.pub`, which will display ssh-rsa at start, and email at end. Copy to clipboard
+- To show `testkey.pub`, enter `cat testkey.pub`, which will display ssh-rsa at start, and email at end. Copy to clipboard using mouse or keyboard: 
+	- MAC: `pbcopy < ~/.ssh/id_rsa.pub`
+	- WINDOWS: `clip < ~/.ssh/id_rsa.pub`
 - Go to GitHub --> Settings --> SSH and GPG keys, and paste the key inside. 
 ## Adding your SSH key to the ssh-agent 
 - Type `eval "$(ssh-agent -s)"` , which will return `Agent pid ####`
@@ -65,3 +67,15 @@ Host *
 
 # Sources
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+# Checking for Existing SSH Keys
+- `cd ~/` 
+	- check the .ssh folder
+- `cd .ssh`
+- `ls`
+	- typically `id_rsa` AND `id_rsa.pub`, just use these existing keys and make sure to add it to the ssh-agent. 
+
+# Huh
+`git push -u origin main`
