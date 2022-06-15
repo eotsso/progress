@@ -73,25 +73,58 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5eea6719c0ed9f19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a68b0db2a0b8c682",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git and GitHub Guide Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15fb3bc5feb83846",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 100
   },
   "active": "0b6463d7649c71dc",
   "lastOpenFiles": [
     "Git and GitHub Guide Setup.md",
-    "Testing Plugin.md",
-    "Element by element vector copy.md",
+    "Modifying, Copying, Comparing Vectors.md",
+    "Bugs and Fixes.md",
     "Vectors.md",
+    "README.md",
     "Vector resize.md",
+    "Element by element vector copy.md",
     "Note Snippets.md",
     "Vector Variable Swapping.md",
-    "Modifying, Copying, Comparing Vectors.md",
-    "vector.md",
-    "NeverNote.md"
+    "Testing Plugin.md"
   ]
 }

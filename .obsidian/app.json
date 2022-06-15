@@ -5,5 +5,9 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "spellcheck": false,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "vimMode": false,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "foldIndent": true
 }

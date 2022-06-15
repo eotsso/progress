@@ -32,7 +32,7 @@
 	- `testkey.pub` //this is the one you want for public repo
 - To show `testkey.pub`, enter `cat testkey.pub`, which will display ssh-rsa at start, and email at end. Copy to clipboard using mouse or keyboard: 
 	- MAC: `pbcopy < ~/.ssh/id_rsa.pub`
-	- WINDOWS: `clip < ~/.ssh/id_rsa.pub`
+	- WINDOWS: `clip < ~/.ssh/id_rsa.pub` //DOESN'T WORK
 - Go to GitHub --> Settings --> SSH and GPG keys, and paste the key inside. 
 ## Adding your SSH key to the ssh-agent 
 - Type `eval "$(ssh-agent -s)"` , which will return `Agent pid ####`
@@ -44,13 +44,16 @@ Host *
 	IdentityFile ~/.ssh/id_rsa 
 ```
 - Add SSH private key to ssh-agent by typing the following. If you created a key with a ***different*** name, replace id_rsa from the following phrase
-	- `$ ssh-add ~/.ssh/id_rsa` (FOIR WINDOWS)
+	- `$ ssh-add ~/.ssh/id_rsa` (FOR WINDOWS)
 	- `ssh-add -K ~/.ssh/id_rsa`  (FOR MAC)
 		- *If error, ensure that the file path is correct.*
 - Now SSH keys are set up. 
 # Push
+- (Note: [starting Oct. 2020](https://github.blog/changelog/2020-08-26-set-the-default-branch-for-newly-created-repositories/), any new repository is created with the default branch `main`, not `master`. And you can [rename existing repository default branch from `master` to `main`](https://github.com/github/renaming).  
+	- `git push origin main`
 - `git push origin master ` 
-	- pushes everything to the master branch
+	- pushes everything to the master branch-
+
 
 # Pushing Locally to GitHub
 - Navitgate to .git file path in the terminal (use `cd`)
@@ -79,3 +82,15 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 # Huh
 `git push -u origin main`
+
+
+
+https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git
+
+https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5
+
+```C++
+int main {
+
+}
+```
