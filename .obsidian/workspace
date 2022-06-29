@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -117,14 +117,14 @@
   "active": "0b6463d7649c71dc",
   "lastOpenFiles": [
     "Git and GitHub Guide Setup.md",
-    "Modifying, Copying, Comparing Vectors.md",
+    "Reversing a String or Vector.md",
+    "README.md",
+    "Ch 8 - Class.md",
+    "VSC Old Notes.md",
+    "String Class Example.md",
     "Bugs and Fixes.md",
     "Vectors.md",
-    "README.md",
-    "Vector resize.md",
-    "Element by element vector copy.md",
-    "Note Snippets.md",
-    "Vector Variable Swapping.md",
-    "Testing Plugin.md"
+    "Modifying, Copying, Comparing Vectors.md",
+    "Chapter 7 -[Class].md"
   ]
 }
